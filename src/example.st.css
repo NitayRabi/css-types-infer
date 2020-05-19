@@ -1,0 +1,12 @@
+:import {
+  -st-from: './formatter.js';
+  -st-named: LayoutFlexChildSpacing;
+}
+
+.foo {
+    background: blue;
+}
+
+.bar {
+    color: black;
+}
